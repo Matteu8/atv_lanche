@@ -1,5 +1,5 @@
 <div>
-  <h1>Atividade Lanche</h1>
+  <h1>Atividade Cadastros de Lanches</h1>
   <p>ATV_LANCHES é um trabalho em grupo realizada no SENAC-PR com o intuito de aprender a programar,<br>
   ATV_LANCHES é uma atividade de um formulario com Interação com banco de dados.
   </p>
