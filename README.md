@@ -9,7 +9,7 @@
   <hr>
   <h3>👥 Contribuidores</h3>
   <p>Mateus Vinicius - @Matteu8</p>
-  <p>Arthur Schimanski - @Brzinnxd</p>
+  <p>João Vitor - @joaovitor00010</p>
   <hr>
   
 </div>
