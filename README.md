@@ -1,9 +1,9 @@
 <div>
   <h1>Atividade Cadastros de Lanches</h1>
-  <p>ATV_LANCHES é um trabalho em grupo realizada no SENAC-PR com o intuito de aprender a programar,<br>
-  ATV_LANCHES é uma atividade de um formulario com Interação com banco de dados.
+  <p>ATV_LANCHE é um trabalho em grupo realizada no SENAC-PR com o intuito de aprender a programar,<br>
+  ATV_LANCHE é uma atividade de um formulario com Interação com banco de dados.
   </p>
-  <h3>🧑‍💻 Linguagens usadas no ATV_LANCHES</h3>
+  <h3>🧑‍💻 Linguagens usadas no ATV_LANCHE</h3>
   <hr>
   <p>HTML 5 - CSS - BOOTSTRAP 5 - PHP</p>
   <hr>
